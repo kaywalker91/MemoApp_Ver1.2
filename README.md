@@ -1,4 +1,4 @@
 # MemoApp_Ver1.2
 
+![simplememo](https://user-images.githubusercontent.com/104833740/183346918-2af75a6e-9f71-4580-ab31-6c4e35176542.png)
 
-![simplememo](https://user-images.githubusercontent.com/104833740/183346796-36a3c543-9f9b-4952-8bc1-848ece8d0049.png)
